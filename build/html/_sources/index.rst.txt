@@ -11,7 +11,6 @@ Minimum Data Requirement's documentation!
 
    introduction
    Purpose
-   Common_requirements
    Activities
    Mine
    LR
